@@ -73,3 +73,34 @@ nav>ul{
 .banner-content{
     max-width: 585px;
 }
+.section-title{
+    font-size: 35px;
+    font-weight: bold;
+    color: #181818;
+}
+.section-details{
+    font-size: 18px;
+    color: #757575;
+
+}
+.secondary-bg{
+
+}
+/* about styles */
+.about{
+     border-radius: 10px;
+     padding: 100px 130px;
+     text-align: center;
+}
+/* main styles */
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.about-items{
+    display: flex;
+    justify-content: space-around;
+}
+.item-description{
+    font-weight: 600;
+}
